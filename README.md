@@ -54,7 +54,7 @@ python>=3.8
 
 
 # Example Outputs
-```python
+```bash
 
 
 # Time Zone Adjustment Sample
